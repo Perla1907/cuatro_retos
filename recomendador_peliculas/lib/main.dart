@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:recomendador_peliculas/detalle_pelicula_screen.dart';
 import 'package:recomendador_peliculas/estado_animo_screen.dart';
